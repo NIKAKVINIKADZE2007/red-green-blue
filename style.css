@@ -1,0 +1,40 @@
+.section1 {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.div1 {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin-right: 30px;
+}
+
+.blue {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  margin-right: 30px;
+}
+
+.green {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  margin-right: 30px;
+}
